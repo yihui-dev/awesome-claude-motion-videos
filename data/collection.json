@@ -1,0 +1,13 @@
+{
+  "collectedAt": "2026-10-12",
+  "videoCount": 134,
+  "classificationCounts": {
+    "author_declared_claude_motion": 18,
+    "related_claude_motion_graphics_unconfirmed_claude_motion": 111,
+    "recorded_generated_artifact": 1,
+    "mixed_workflow_claude_motion": 4
+  },
+  "bannerUrl": "https://media.skillry.dev/claude-motion/_readme/banner.40e5b597eb449e10.webp",
+  "source": "Original X posts and recorded discovery collections",
+  "mediaHost": "https://media.skillry.dev"
+}

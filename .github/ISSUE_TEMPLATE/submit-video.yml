@@ -1,0 +1,23 @@
+name: Submit a video
+description: Suggest a community motion video with original creator evidence.
+title: "[Video] "
+body:
+  - type: input
+    id: original
+    attributes:
+      label: Original X post URL
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Creator profile URL
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Attribution evidence and description
+      description: Quote the author's tool or workflow statement and link its source. Mark uncertainty explicitly.
+    validations:
+      required: true

@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+.env*
+*.mp4
+*.mov
+*.webm
+artifacts/

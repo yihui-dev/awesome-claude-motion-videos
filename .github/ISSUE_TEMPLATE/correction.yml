@@ -1,0 +1,17 @@
+name: Correction or removal
+description: Request an attribution correction or removal of your work.
+title: "[Correction] "
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Repository entry or original post URL
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: Requested change and authorship evidence
+      description: Do not include private contact details or credentials.
+    validations:
+      required: true
